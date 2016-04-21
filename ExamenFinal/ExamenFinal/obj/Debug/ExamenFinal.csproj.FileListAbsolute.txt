@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Form1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Form2.resources
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Menu.resources
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.exe
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Form3.resources
